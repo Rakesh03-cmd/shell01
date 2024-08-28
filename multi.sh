@@ -7,7 +7,7 @@ echo "Enter the second number:9"
 
 
 # Perform multiplication
-result=$((8 - 9))
+result=$((50 / 10))
 
 # Display the result
-echo "The substraction of $8 and $9 is: $result"
+echo "The division of $550 and $110 is: $result"
