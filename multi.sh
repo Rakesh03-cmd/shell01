@@ -7,7 +7,7 @@ echo "Enter the second number:9"
 
 
 # Perform multiplication
-result=$((8 * 9))
+result=$((8 + 9))
 
 # Display the result
-echo "The multiplication of $8 and $9 is: $result"
+echo "The addition of $8 and $9 is: $result"
